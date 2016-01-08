@@ -55,17 +55,22 @@ Examples:
 
 <table>
   <tr>
-    <td>Simple merge</td>
+    <th>Merge</th>
+    <th>Input</th>
+    <th>Output</th>
+  </tr>
+  <tr>
+    <td>Simple</td>
     <td>[ ["fight", "gunshot" "fleeing"], ["gunshot", "falling", "fleeing"] ]</td>
     <td>[ ["fight", "gunshot", "falling", "fleeing"] ]</td>
   </tr>
   <tr>
-    <td>Partial merge</td>
+    <td>Partial</td>
     <td>[ ["shadowy figure", "demands", "scream", "siren"], ["shadowy figure", "pointed gun", "scream"] ]</td>
     <td>[ ["shadowy figure", "demand", "scream", "siren"], ["shadowy figure", "pointed gun", "scream", "siren"] ]</td>
   </tr>
   <tr>
-    <td>Unable to merge</td>
+    <td>None</td>
     <td>[ ["argument", "stuff", "pointing"], 
     ["press brief", "scandal", "pointing"], ["bribe", "coverup"] ]</td>
     <td>[ ["argument", "stuff", "pointing"], ["press brief", "scandal", "pointing"], ["bribe", "coverup"] ]</td>
