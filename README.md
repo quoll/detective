@@ -10,9 +10,9 @@ witnessed or recall witnessing every event.
 
 For instance:
 
-Lisa remembers: shouting, fight, fleeing
-Mike remembers: fight, gunshot, panic, fleeing
-Ned remembers: anger, shouting
+    Lisa remembers: shouting, fight, fleeing
+    Mike remembers: fight, gunshot, panic, fleeing
+    Ned remembers: anger, shouting
 
 The detective needs to construct a maximal timeline from each of these witness timelines. When
 enough of the witness timelines can be merged to form long enough timeline, then this increases
@@ -27,15 +27,17 @@ to the maximum degree possible.
 - if none of the events can be combined, or extended, then present the original, unmodified timeslines
 
 The above example can be combined into a single timeline:
+
     anger, shouting, fight, gunshot, panic, fleeing
 
 An example of multiple possible timeslines is:
 
-Oscar: pouring gas, laughing, lighting match fire
-Peter: buying far, pouring gas, crying, fire, smoke
+    Oscar: pouring gas, laughing, lighting match fire
+    Peter: buying far, pouring gas, crying, fire, smoke
 
 Since it is not possible to tell if the crying occurred before or after lighting the match, then
 two timelines emerge:
+
     buying gas, pouring gas, laughing, lighting match, fire, smoke
     buying gas, pouring gas, crying, fire, smoke
 
