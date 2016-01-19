@@ -32,8 +32,8 @@ The above example can be combined into a single timeline:
 
 An example of multiple possible timeslines is:
 
-- Oscar: pouring gas, laughing, lighting match fire
-- Peter: buying far, pouring gas, crying, fire, smoke
+- Oscar: pouring gas, laughing, lighting match, fire
+- Peter: buying gas, pouring gas, crying, fire, smoke
 
 Since it is not possible to tell if the crying occurred before or after lighting the match, then
 two timelines emerge:
