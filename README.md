@@ -15,22 +15,22 @@ For instance:
 - Ned remembers: anger, shouting
 
 The detective needs to construct a maximal timeline from each of these witness timelines. When
-enough of the witness timelines can be merged to form long enough timeline, then this increases
+enough of the witness timelines can be merged to form a long enough timeline, then this increases
 the likelihood of a successful conviction. The ordering of events must be absolutely correct,
 or else the case will be thrown out. If timelines cannot be strictly ordered, then multiple
 timelines must be presented.
 
-- If all witnesses remember evenents in a fully consistent manner, then present a single merged timeline
-- if some of the events they rememebr can be combined, or if some of the them can be extended
-without fully mergint them, then present multiple timelines with events merged across them
+- If all witnesses remember events in a fully consistent manner, then present a single merged timeline.
+- If some of the events they remember can be combined, or if some of the them can be extended
+without fully merging them, then present multiple timelines with events merged across them
 to the maximum degree possible.
-- if none of the events can be combined, or extended, then present the original, unmodified timeslines
+- If none of the events can be combined, or extended, then present the original, unmodified timelines.
 
 The above example can be combined into a single timeline:
 
     anger, shouting, fight, gunshot, panic, fleeing
 
-An example of multiple possible timeslines is:
+An example of multiple possible timelines is:
 
 - Oscar: pouring gas, laughing, lighting match, fire
 - Peter: buying gas, pouring gas, crying, fire, smoke
