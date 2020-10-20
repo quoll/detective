@@ -10,7 +10,7 @@
 
 (defn longest-common-sequence
   "Find the Longest Common Sequence between two sequences.
-   Uses dynamic programming to recursively search through each sequence for matchine elements."
+   Uses dynamic programming to recursively search through each sequence for matching elements."
   [[f1 & r1 :as data1] [f2 & r2 :as data2]]
   (if (or (empty? data1) (empty? data2))
     [[]]                ;; a single empty sequence to build on
